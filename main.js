@@ -18,7 +18,7 @@ let numPuffer = 0;
 // Add Event Listener to Calculate Button
 fishBtn.addEventListener('click', fishBtnClicked);
 
-// Event handler for fishBtn
+// Event handler for fishBt
 function fishBtnClicked() {
   // Check Selected Character
   let character = charSelect.value;
